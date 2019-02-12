@@ -324,4 +324,6 @@
     <string name="accelerate_interpolator">Accelerate interpolator</string>
     <string name="decelerate_interpolator">Decelerate interpolator</string>
 
+    <!-- Polygon toggle -->
+    <string name="tap_on_neighborhood">Tap on a neighborhood area to toggle its color</string>
 </resources>
